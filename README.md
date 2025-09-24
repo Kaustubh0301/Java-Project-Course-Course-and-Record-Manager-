@@ -4,7 +4,7 @@ CCRM is a console-based Java SE application designed for an educational institut
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Prerequisites
 * **Java Development Kit (JDK):** Version 11 or higher.
@@ -30,7 +30,7 @@ CCRM is a console-based Java SE application designed for an educational institut
 
 ---
 
-## 🛠️ Project Documentation
+##  Project Documentation
 
 ### 1. Evolution of Java (Brief Timeline)
 * **1995:** Java 1.0 released by Sun Microsystems.
@@ -56,7 +56,7 @@ CCRM is a console-based Java SE application designed for an educational institut
 
 
 ---
-## 🗺️ Syllabus Topic to Code Mapping
+##  Syllabus Topic to Code Mapping
 
 | Topic/Concept                   | File(s) / Location                                                                    |
 | ------------------------------- | ------------------------------------------------------------------------------------- |
@@ -74,7 +74,7 @@ CCRM is a console-based Java SE application designed for an educational institut
 
 ---
 
-## 📋 Sample Usage
+##  Sample Usage
 
 1.  Run the application.
 2.  Select `Data Utilities` -> `Import Data` to load sample CSV files.
